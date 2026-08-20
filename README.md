@@ -19,9 +19,21 @@
   <img src="assets/banner.png" alt="Ember — Dark, Soft, and Light variants" width="800" />
 </p>
 
-<p align="center">
-  <strong>Coming soon.</strong>
-</p>
+## Variants
+
+| Variant | Background | File |
+|---|---|---|
+| **Ember** | `#1c1b19` — dark graphite | `ember.itermcolors` |
+| **Ember Soft** | `#242320` — lifted graphite | `ember-soft.itermcolors` |
+| **Ember Light** | `#e6dac4` — warm ivory | `ember-light.itermcolors` |
+| **Ember Lighter** | `#e8e4de` — pale warm gray | `ember-lighter.itermcolors` |
+
+## Install
+
+1. Download or clone this repository.
+2. Open **iTerm2 → Settings → Profiles → Colors**.
+3. Open **Color Presets…**, choose **Import…**, and select one or more of the `.itermcolors` files.
+4. Choose the imported Ember preset from **Color Presets…** to apply it to the current profile.
 
 ## License
 
